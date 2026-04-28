@@ -8,18 +8,27 @@
 ## 📊 Projets
 
 ### 🔹 Analyse e-commerce – BottleNeck
-- Python (Pandas, Data Cleaning)
-- Analyse du chiffre d'affaires, marges, stocks
-- Identification de leviers business
-- 📁 Notebook + présentation disponibles
+**Technos :** Python (Pandas, Data Cleaning)  
+- Analyse du chiffre d'affaires, marges, stocks  
+- Identification de leviers business  
+📁 Notebook + présentation disponibles  
 
 ---
 
 ### 🔹 Analyse santé publique – FAO
-- Python (Pandas, Matplotlib)
-- Analyse de la sous-nutrition dans le monde
-- Data visualisation
-- 📁 Notebook + synthèse disponibles
+**Technos :** Python (Pandas, Matplotlib)  
+- Analyse de la sous-nutrition dans le monde  
+- Data visualisation  
+📁 Notebook + synthèse disponibles  
+
+---
+
+### 🔹 Application décisionnelle santé (en cours)
+**Technos :** Python, Streamlit, Pandas  
+- Développement d’une application de visualisation de données patients  
+- Automatisation du traitement des données  
+- Création de dashboards de suivi de performance  
+- Conception orientée utilisateur avec logique RGPD  
 
 ---
 
